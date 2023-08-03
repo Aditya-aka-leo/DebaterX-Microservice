@@ -7,7 +7,6 @@ import numpy as np
 import pandas as pd
 import json
 import nltk.corpus
-from scrapy.crawler import CrawlerProcess
 from nltk.stem.lancaster import LancasterStemmer
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.layers import Input, Embedding, LSTM, Dense, GlobalMaxPooling1D, Flatten

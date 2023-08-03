@@ -1,0 +1,35 @@
+ * Serving Flask app 'api'
+ * Debug mode: on
+Address already in use
+Port 8001 is in use by another program. Either identify and stop that program, or start the server with a different port.
+__pycache__
+api.py
+clean.py
+nohup.out
+savedata.json
+scraper.py
+ * Serving Flask app 'api'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.1.0.5:8000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 570-737-788
+122.171.22.6 - - [03/Aug/2023 11:50:32] "GET /?url=https://en.wikipedia.org/wiki/Climate_change HTTP/1.1" 200 -
+122.171.22.6 - - [03/Aug/2023 11:50:48] "GET /?url=https://stackoverflow.com/questions/18323508/how-to-cd-into-a-directory-with-space-in-the-name HTTP/1.1" 200 -
+122.171.22.6 - - [03/Aug/2023 11:55:30] "GET /?url=https://en.wikipedia.org/wiki/Climate_change HTTP/1.1" 200 -
+122.171.22.6 - - [03/Aug/2023 11:55:57] "GET /?url=https://en.wikipedia.org/wiki/Climate_change HTTP/1.1" 200 -
+ * Serving Flask app 'api'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.1.0.5:8000
+Press CTRL+C to quit
+122.171.22.6 - - [03/Aug/2023 12:07:39] "GET /?url=https://en.wikipedia.org/wiki/Climate_change HTTP/1.1" 200 -
+122.171.22.6 - - [03/Aug/2023 12:11:45] "GET /?url=https://en.wikipedia.org/wiki/Climate_change HTTP/1.1" 200 -
+122.171.22.6 - - [03/Aug/2023 12:11:48] "GET /?url=https://en.wikipedia.org/wiki/Climate_change HTTP/1.1" 200 -
+122.171.22.6 - - [03/Aug/2023 12:11:54] "GET /?url=https://en.wikipedia.org/wiki/Climate_change HTTP/1.1" 200 -
